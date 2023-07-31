@@ -1,26 +1,58 @@
 Animes Site :
 
-Offline :
+---Site = ON/off/Privado
+-A = Anime 
+-F = Filme
+-M = Mangá
+-O = Ova
+
+Aenianos = off
 https://aenianos.com.br/
+Anbient = Em breve
+https://www.anbient.com/tv/cardfight-vanguard
+Animakai = off
+Animes Vision = Off
 
-Em Breve :
-https://www.anbient.com/
+---BR Mangás = On
+https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
+-M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
 
-Offline :
-animakai
-
-Fechado :
+Fenix Sub = Convidados
 http://fenixsub.blogspot.com/
 
-Offline :
-http://www.heavenfansub.com.br/
-http://www.hyuugadownloads.com.br/
+Haruka = Off
+https://haru-ka.net/scans/
+Heaven Sub = ON
+http://www.heavensub.com.br
+Hyuga Downloads = Off
+
+Infinite Sub = ON
+https://infinitefansub.com/
+
+Kiyoteru Fansub = Off
 http://www.kiyoterufansub.com/site/
-https://punchsub.zlx.com.br/
 
-ONline :
-http://puripurifansub.blogspot.com/
+---MG Animes = ON
+https://www.mganimes.com.br/
+
+---Projeto Saki = ON
+http://projetosakimahjong.blogspot.com/p/saki.html
+-M = Saki
+Punch Sub = Off
+https://punchsub.zlx.com.br
+
+Ryuu Fansub = ON
+https://www.ryuufansub.net/
+
+Saiko Animes = ON
 https://saikoanimes.net/
+Soda Scan = Privado
+https://sodascan.wordpress.com
 
-Em breve :
-https://tsukimangas.com/
+Totai Animes = Removido
+Tsuki Mangas = Off
+https://tsukimangas.com
+
+Vanguardus = Off
+https://www.vanguardus.net
+Yes Mangas = OFF
