@@ -3,7 +3,7 @@ Animes Site :
 ---Site = ON/off/Privado
 -A = Anime 
 -F = Filme
--M = Mangá
+-M = Mangï¿½
 -O = Ova
 
 Aenianos = off
@@ -11,9 +11,13 @@ https://aenianos.com.br/
 Anbient = Em breve
 https://www.anbient.com/tv/cardfight-vanguard
 Animakai = off
+Anime Fire = Animes online
+https://animefire.plus/
+
+
 Animes Vision = Off
 
----BR Mangás = On
+---BR Mangï¿½s = On
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
 -M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
 
@@ -26,7 +30,7 @@ Heaven Sub = ON
 http://www.heavensub.com.br
 Hyuga Downloads = Off
 
-Infinite Sub = ON
+Infinite Sub = ON 
 https://infinitefansub.com/
 
 Kiyoteru Fansub = Off
