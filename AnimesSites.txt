@@ -21,6 +21,9 @@ Animes Vision = Off
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
 -M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
 
+ON
+https://darkmahou.org/
+
 Fenix Sub = Convidados
 http://fenixsub.blogspot.com/
 
