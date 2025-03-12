@@ -3,7 +3,7 @@ Animes Site :
 ---Site = ON/off/Privado
 -A = Anime 
 -F = Filme
--M = Mang�
+-M = Manga
 -O = Ova
 
 Aenianos = off
@@ -13,8 +13,16 @@ https://www.anbient.com/tv/cardfight-vanguard
 Animakai = off
 Anime Fire = Animes online
 https://animefire.plus/
-
-
+Animes Comix = On
+https://animescomix.tv/
+Animes Digital = On
+https://animesdigital.org/
+Animes Games.cc = On
+https://animesgames.cc/
+Animes Online = On
+https://ww36.animesonline.online/
+Anime Orion = ON
+https://animesorionvip.net/
 Animes Vision = Off
 
 ---BR Mang�s = On
@@ -29,7 +37,7 @@ http://fenixsub.blogspot.com/
 
 Haruka = Off
 https://haru-ka.net/scans/
-Heaven Sub = ON
+Heaven Sub = Off
 http://www.heavensub.com.br
 Hyuga Downloads = Off
 
@@ -39,8 +47,11 @@ https://infinitefansub.com/
 Kiyoteru Fansub = Off
 http://www.kiyoterufansub.com/site/
 
----MG Animes = ON
+---MG Animes = Off
 https://www.mganimes.com.br/
+
+NyaLand = On Torrent
+https://nyaa.land/
 
 ---Projeto Saki = ON
 http://projetosakimahjong.blogspot.com/p/saki.html
@@ -53,6 +64,7 @@ https://www.ryuufansub.net/
 
 Saiko Animes = ON
 https://saikoanimes.net/
+https://saikoanime.news/
 Soda Scan = Privado
 https://sodascan.wordpress.com
 
