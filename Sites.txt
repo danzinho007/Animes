@@ -17,6 +17,8 @@ Animes Comix = On
 https://animescomix.tv/
 Animes Digital = On
 https://animesdigital.org/
+Animes Drive = ON
+https://animesdrive.blog/
 Animes Games.cc = On
 https://animesgames.cc/
 Animes Online = On
@@ -29,7 +31,7 @@ Animes Vision = Off
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
 -M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
 
-ON
+Dark Mahou = ON ( Torrent )
 https://darkmahou.org/
 
 Fenix Sub = Convidados
