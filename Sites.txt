@@ -10,8 +10,10 @@ Aenianos = off
 https://aenianos.com.br/
 Anbient = Em breve
 https://www.anbient.com/tv/cardfight-vanguard
+Animes BR = ON ( propaganda )
+https://animesbr.tv/filmes/page/2/
 Animakai = off
-Anime Fire = Animes online
+Anime Fire = Animes online ( propaganda)
 https://animefire.plus/
 Animes Comix = On
 https://animescomix.tv/
@@ -19,13 +21,17 @@ Animes Digital = On
 https://animesdigital.org/
 Animes Drive = ON
 https://animesdrive.blog/
-Animes Games.cc = On
+Animes Games.cc = On ( sem propaganda )
 https://animesgames.cc/
+Animes Online.cc = ON ( sem_propaganda )
+https://animesonlinecc.to/
 Animes Online = On
 https://ww36.animesonline.online/
 Anime Orion = ON
 https://animesorionvip.net/
 Animes Vision = Off
+Anitube = ON ( propaganda )
+https://www.anitube.us/
 
 ---BR Mang�s = On
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
@@ -37,10 +43,15 @@ https://darkmahou.org/
 Fenix Sub = Convidados
 http://fenixsub.blogspot.com/
 
+Goyabu = ON ( propaganda )
+https://goyabu.to/listas-de-animes
+
 Haruka = Off
 https://haru-ka.net/scans/
 Heaven Sub = Off
 http://www.heavensub.com.br
+Hinata Soul = ON ( propaganda )
+https://www.hinatasoul.net/anime-dublado/page/2
 Hyuga Downloads = Off
 
 Infinite Sub = ON 
