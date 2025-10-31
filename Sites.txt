@@ -1,3 +1,6 @@
+Informações de animes :
+https://www.infoanime.com.br/index
+
 Animes Site :
 
 ---Site = ON/off/Privado
@@ -10,6 +13,8 @@ Aenianos = off
 https://aenianos.com.br/
 Anbient = Em breve
 https://www.anbient.com/tv/cardfight-vanguard
+Removido
+http://www.anbient.net/tv/cardfight-vanguard
 Animes BR = ON ( propaganda )
 https://animesbr.tv/filmes/page/2/
 Animakai = off
@@ -17,6 +22,8 @@ Anime Fire = Animes online ( propaganda)
 https://animefire.plus/
 Animes Comix = On
 https://animescomix.tv/
+Accel Sword = Off
+http://www.animescx.com/2012/09/accel-word-episodios.html
 Animes Digital = On
 https://animesdigital.org/
 Animes Drive = ON
@@ -25,6 +32,8 @@ Animes Games.cc = On ( sem propaganda )
 https://animesgames.cc/
 Animes Online.cc = ON ( sem_propaganda )
 https://animesonlinecc.to/
+https://animesonlinecc.to/episodio/high-score-girl-episodio-4/
+
 Animes Online = On
 https://ww36.animesonline.online/
 Anime Orion = ON
@@ -37,8 +46,17 @@ https://www.anitube.us/
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
 -M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
 
+Removido
+http://www.bruthais-fansub.net/portal/?page_id=4491
+
+Removido
+http://www.bruthais.tk/
+
 Dark Mahou = ON ( Torrent )
 https://darkmahou.org/
+
+Removido
+http://downloadetorrent.com/colecao-jogos-mortais-dublado
 
 Fenix Sub = Convidados
 http://fenixsub.blogspot.com/
@@ -66,6 +84,15 @@ https://www.mganimes.com.br/
 NyaLand = On Torrent
 https://nyaa.land/
 
+Removido
+http://ongbanzai.blogspot.com.br/2013/01/cardfight-vanguard.html
+
+Removido
+http://www.poke-legendas.net/2013/07/pokemon-avancado-mkv.html
+
+Removido
+http://pokemonmythology.110mb.com/
+
 ---Projeto Saki = ON
 http://projetosakimahjong.blogspot.com/p/saki.html
 -M = Saki
@@ -89,3 +116,5 @@ Vanguardus = Off
 https://www.vanguardus.net
 Yes Mangas = OFF
 
+Removido
+http://www.yugioh-extremo.info/
