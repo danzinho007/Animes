@@ -42,6 +42,11 @@ Animes Vision = Off
 Anitube = ON ( propaganda )
 https://www.anitube.us/
 
+Offline
+https://animesvision.to/
+
+https://www.ansktracker.net/
+
 ---BR Mang�s = On
 https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
 -M = Kimetsu no Yaiba / Demon Slayer Cap 01 ao 205.5
